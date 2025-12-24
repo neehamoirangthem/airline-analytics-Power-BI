@@ -28,9 +28,9 @@ The project is divided into **three dashboards**:
 
 
 ## Tools Used
-- ##Power BI#
-- ##DAX##
-- ##Excel/ CSV##
+- Power BI
+- DAX
+- Excel/ CSV
 
 ## Key Learning ##
 - Hands-on experience with DAX Calculations
